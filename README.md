@@ -4,7 +4,7 @@ A responsive, single-page Vue.js application that helps E-commerce managers visu
 
 ## Live Demo
 
-👉 [Your Deployed Link Here]
+👉 lambent-treacle-a63d09.netlify.app
 
 ## 📦 Features
 
